@@ -1,0 +1,13 @@
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\bin\Debug\netcoreapp3.1\TouringMachine.exe
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\bin\Debug\netcoreapp3.1\TouringMachine.deps.json
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\bin\Debug\netcoreapp3.1\TouringMachine.runtimeconfig.json
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\bin\Debug\netcoreapp3.1\TouringMachine.runtimeconfig.dev.json
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\bin\Debug\netcoreapp3.1\TouringMachine.dll
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\bin\Debug\netcoreapp3.1\TouringMachine.pdb
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\obj\Debug\netcoreapp3.1\TouringMachine.csproj.AssemblyReference.cache
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\obj\Debug\netcoreapp3.1\TouringMachine.AssemblyInfoInputs.cache
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\obj\Debug\netcoreapp3.1\TouringMachine.AssemblyInfo.cs
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\obj\Debug\netcoreapp3.1\TouringMachine.csproj.CoreCompileInputs.cache
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\obj\Debug\netcoreapp3.1\TouringMachine.dll
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\obj\Debug\netcoreapp3.1\TouringMachine.pdb
+C:\Users\AlMahdi\source\repos\TouringMachine\TouringMachine\obj\Debug\netcoreapp3.1\TouringMachine.genruntimeconfig.cache
